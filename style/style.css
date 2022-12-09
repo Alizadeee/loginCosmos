@@ -1,0 +1,27 @@
+@media (max-width: 576px){
+    element.style{
+        margin: 0% !important;
+    }
+    p{
+        margin-left: 85px;
+    }
+    .form{
+        width: 100% !important;
+        background-size: auto !important;
+        background-position: center !important;
+        padding: 10px 50px !important;
+        margin-right: 20px !important;
+    }
+    .btn{
+        margin: auto;
+    }
+    input{
+        margin: auto !important;
+        margin-bottom: 30px !important;
+        padding: 5px 50px !important;
+    }
+    .date{
+        padding: 5px 80px !important;
+    }
+    
+}
